@@ -1,4 +1,5 @@
 # **📝 Mobile English Grammar Checker (Grammar Assistant)**
+<img width="568" height="847" alt="캡처" src="https://github.com/user-attachments/assets/2137ac06-9b30-45e2-81b4-ca5f249163c8" />
 
 AI 기반으로 입력된 영어 문장의 문법 오류, 어색한 표현을 교정하고 더 나은 모범 답안 및 다양한 표현 변형을 제시해 주는 **모바일 최적화 영어 문법 교정 웹 애플리케이션**입니다.
 
